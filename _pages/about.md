@@ -19,7 +19,7 @@ My chinese homepage is at [this link](https://sse.sysu.edu.cn/teacher/249).
 
 ### **AI-Powered Natural Language Processing Applications**
 
-I am honored to serve as a **Guest Editor** for the Special Issue *“AI-Powered Natural Language Processing Applications”* of *“Electronics”*.
+I am honored to serve as a **Guest Editor** for the Special Issue **AI-Powered Natural Language Processing Applications** of "**Electronics**.
 In this Special Issue, we are particularly interested in exploring, characterizing, and evaluating emerging AI-driven methodologies in NLP and presenting innovative models, datasets, tools, benchmarks, and applications that demonstrate measurable impact in academic, industrial, or societal contexts.
 
 I warmly invite researchers and practitioners to contribute their latest work.
